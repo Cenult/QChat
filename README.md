@@ -1,10 +1,10 @@
 # QChat Messaging Service Prototype
 
-![QChat Logo](link-to-your-logo.png)
+![QChat Logo](./frontend/public/favicon.ico)
 
-QChat is a real-time messaging service prototype developed by [Your Name] for the internship opportunity with [Internship Company]. It aims to provide users with a user-friendly interface for real-time messaging and group chat functionality.
+QChat is a real-time messaging service prototype developed by Sarthak Choudhary for the internship opportunity with I'mbesideyou. It aims to provide users with a user-friendly interface for real-time messaging and group chat functionality.
 
-**College:** Your College Name  
+**College:** IIT Goa
 **Department:** B.Tech in Computer Science and Engineering
 
 ## Table of Contents
