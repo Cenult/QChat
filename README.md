@@ -6,6 +6,7 @@ QChat is a real-time messaging service prototype developed by Sarthak Choudhary 
 
 **College:** IIT Goa
 **Department:** B.Tech in Computer Science and Engineering
+**Deployed Project:**[https://qchat-bu1g.onrender.com](https://qchat-bu1g.onrender.com)
 
 ## Table of Contents
 - [QChat Messaging Service Prototype](#qchat-messaging-service-prototype)
@@ -61,9 +62,8 @@ git clone https://github.com/Cenult/QChat.git
 cd QChat
 ```
 
-2. Navigate to the backend directory and install backend dependencies
+2. In the root directory install backend dependencies
 ```bash
-cd backend
 npm install
 ```
 
@@ -84,13 +84,12 @@ npm install
 ```
 
 ### Configuration
-Detailed configuration instructions, including setting up a MongoDB database, can be found in the [System Design Document](link).
+Detailed configuration instructions, including setting up a MongoDB database, can be found in the [System Design Document](./QChat_SystemDesignDocument.docx).
 
 ## Usage
-1. Start the backend server:
+1. Start the backend server (in root directory):
 
 ```bash
-cd backend
 npm start
 ```
 
@@ -102,7 +101,7 @@ npm start
 
 3. Access the QChat messaging service:
 
-Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the QChat messaging service.
+- Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the QChat messaging service.
 
 
 ## Screenshots
