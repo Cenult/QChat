@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+
+  /* background-image: url("./background.png"); */
+  background:linear-gradient(217deg, rgba(250, 205, 173, 0.8), rgba(255,0,0,0) 70.71%),
+  linear-gradient(127deg, rgba(245, 245, 245, 0.8), rgba(0,255,0,0) 70.71%),
+  linear-gradient(336deg, rgba(231, 140, 97, 0.8), rgba(0,0,255,0) 70.71%);
+  
+  background-position: center;
+  background-size: cover;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.281);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
